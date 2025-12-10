@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+*.egg
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+venv/
+env/
+.env/
+
+# Virtual environment
+# .venv/
+# venv/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.bak
+*~
+*.log
+.DS_Store
+
+# PyCharm specific files
+.idea/
+.vscode/
+.history/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Miscellaneous
+.coverage
+.tox/
+.mypy_cache/
+.pytest_cache/
+tmp/
+.webassets-cache/
+.ropeproject/
+.hgignore
+
+# User-specific files
+*.env
+.flaskenv
+
+# Model cache
+/models
+/data/hybrid_index
